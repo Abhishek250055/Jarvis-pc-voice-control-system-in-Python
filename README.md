@@ -1,7 +1,7 @@
 # Jarvis-pc-voice-control-system-in-Python
 Jarvis Computer system voice control system in Python
 
-## Model_1
+## Voice Control System
 ![Alt text](https://as2.ftcdn.net/v2/jpg/04/13/39/05/1000_F_413390587_YmDyNH36fkihR31dkOxfJknKpAAJRRdp.jpg)
 
 
