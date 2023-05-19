@@ -37,3 +37,24 @@ import psutil #showing battery
 
 
 ```
+
+##                                                           Working
+
+## 1.Wish Me.
+## 2.Youtube Search
+## 3.Read pdf file
+## 4.Take command by user
+## 5.Send email
+## 6.Time to play the code
+## 7.Open Wikipedia
+## 8.Open YouTube
+## 9.Open Facebook
+## 10.Open Google
+## 11.Open Google Search
+## 12.Play Videos
+## 13.Email to Preson
+## 14.All System Control
+##        * volume_up
+##        * volume_down
+## 15.System reset
+## 16.Network Speed
