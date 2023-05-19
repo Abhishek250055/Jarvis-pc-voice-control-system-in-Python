@@ -38,6 +38,10 @@ import psutil #showing battery
 
 ```
 
+## Voice Control System
+![Alt text](https://as2.ftcdn.net/v2/jpg/04/13/39/05/1000_F_413390587_YmDyNH36fkihR31dkOxfJknKpAAJRRdp.jpg](https://media.licdn.com/dms/image/C4E12AQH-AYSy6dgC0g/article-cover_image-shrink_600_2000/0/1592916498242?e=2147483647&v=beta&t=6rI6VFxmBdxCZu6jv7wTI0ZIW7Dx7JfGBK_kuZJzk6g)
+
+
 ##                                                           Working
 
 ## 1.Wish Me.
